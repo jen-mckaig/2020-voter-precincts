@@ -3,3 +3,4 @@ myenv-precinct/
 check-files.ipynb
 .ipynb_checkpoints
 .DS_Store
+.gitattributes
