@@ -4,7 +4,10 @@ Repo for 2020 state voting precincts or districts.  Each state shapefile has bee
 
 The shapefiles have been taken directly from the 2020 Census VTD files. If the VTD shapefiles were not included in the census data, they were extracted from the Secretary of State or a state geo-database. 
 
-CA = precinct shapefiles from [2020 general primary](https://statewidedatabase.org/election.html)
+<b>EXAMPLE: Nevada General Election 2020</b>
+
+<img width="818" alt="nv_example" src="https://user-images.githubusercontent.com/67813032/106946157-bfc0be80-66f6-11eb-89dd-f756101c05ea.png">
+
 
 
 
